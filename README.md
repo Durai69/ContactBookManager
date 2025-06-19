@@ -175,13 +175,6 @@ For bugs, enhancements, or feature ideas, feel free to [open an issue](https://g
 
 ---
 
-## 📄 License
-
-This project is released under the MIT License.
-Feel free to use, modify, and distribute it responsibly.
-
----
-
 ## 🙌 Acknowledgements
 
 * Java Swing for the GUI framework.
