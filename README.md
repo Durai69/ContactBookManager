@@ -184,5 +184,3 @@ For bugs, enhancements, or feature ideas, feel free to [open an issue](https://g
 
 ---
 
-Let me know if you'd like a **badge section**, **screenshots**, **GIF demo**, or **custom logo** added!
-
