@@ -171,7 +171,7 @@ To contribute:
 4. Push to your fork.
 5. Open a pull request.
 
-For bugs, enhancements, or feature ideas, feel free to [open an issue](https://github.com/your-username/ContactBookManager/issues).
+For bugs, enhancements, or feature ideas, feel free to [open an issue](https://github.com/Durai69/ContactBookManager/issues).
 
 ---
 
